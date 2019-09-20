@@ -1,8 +1,9 @@
-윤상목 박준기 천재관 모재영 김재훈 김동한
-
 주요 기능 : 로그인 및 회원가입, 운동 정보, 스트레칭, 타이머, 식단 관리, 게시판
 
 개발도구 : Java eclipse, MySQL
+
+MySQL code : CnH\database
+Java code : CnH\SECnH\src\test
 
 ※ 프로그램 사용가이드
 
