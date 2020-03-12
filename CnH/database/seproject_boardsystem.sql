@@ -37,7 +37,7 @@ CREATE TABLE `boardsystem` (
 
 LOCK TABLES `boardsystem` WRITE;
 /*!40000 ALTER TABLE `boardsystem` DISABLE KEYS */;
-INSERT INTO `boardsystem` VALUES ('ㅁㄴㅇㄻㄴㄹ','ㅁㄴㅇㄹ','ㅁㄴㅇㄹ',2),('zzz','zzzz','Guest',4),('ggfgf','fsdsgfdsfgd','Guest',17),('김','ㅎㅎ','Guest',20),('배고프다','ㅇㅇㅇㅇ','Guest',21),('가나다','라마바','Guest',22),('','','Guest',23),('아야어여','오요우유','Guest',24),('ㅇㅇㅇ','ㅎㅎㅎ','Guest',25),('yuyuyu','uteef','Guest',26),('gfgfg','hfghgh','Guest',27),('님들 실행파일 어떻게 만듬??','ㅈㄱㄴ','worhks1',35),('좀 끝내자','ㄴㄴ','junki',37);
+INSERT INTO `boardsystem` VALUES (' ',' ',' ', 1);
 /*!40000 ALTER TABLE `boardsystem` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
