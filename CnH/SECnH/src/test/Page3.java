@@ -86,7 +86,7 @@ public class Page3 extends JPanel{
 
                 
   
-        //age 여기서 토글버튼 값 받아와서 벡터 안에 넣어야 합니다.
+        //age
  
         JLabel lbAge = new JLabel("나이");
         lbAge.setBounds(232, 332, 62, 18);
